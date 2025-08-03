@@ -19,7 +19,6 @@ individuals.
 
 * [IXimager file formats](iximager_file_formats.md)
 
-## External Links
+# External Links
 
-* [Official website](https://www.ilook-forensics.org/iximager.html)
-* [NIST evaluation of IXimager](https://nij.ojp.gov/)
+* [Test Results for Digital Data Acquisition Tool: IXimager (Version 2.0, Feb-01 2006)](https://www.ojp.gov/pdffiles1/nij/217678.pdf)
