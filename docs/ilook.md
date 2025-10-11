@@ -16,6 +16,7 @@ application is now being supported by XtremeForensics who have released
 ILooKIX v9 for commercial use in two versions, Standard and Advanced.
 
 ILooKIX can support a wide variety of file systems, including:
+
 * [FAT](fat.md) 12/16/32
 * [NTFS](ntfs.md) and NTFS compressed
 * (Classic) HFS and [HFS+](hfs+.md)
@@ -89,6 +90,7 @@ Hashes and compares using custom hash sets as well as the
 using [MD5](md5.md) and FIPS 180-2 compliant algorithms (e.g.
 [SHA-1](sha-1.md).
 
-## External links
+## See Also
 
-* [ILook Investigator Computer Forensics Software](https://www.ilook-forensics.org/)
+* [IXimager](iximager.md)
+
